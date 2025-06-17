@@ -5,3 +5,14 @@ We are a community of developers (Mostly Astro Devs), builders, and players who 
 
 We have a variety of Mods on our server to help make your experience as enjoyable as possible! We are always looking for new members to join our community and help us grow. 
 So come join us and start building your dream world today!
+
+## Get started on your Station48 journey!
+
+<!-- New Modpack Coming Soon
+< a href="https://modrinth.com/modpack/station48" title="Download on Modrinth">
+  <img alt="Download on Modrinth" src="https://i.postimg.cc/BvBJYgGc/67560307.png" width="200" />
+</a> 
+-->
+<a href="https://modrinth.com/modpack/jonathans-cobblemon-pack" title="Download on Modrinth">
+  <img alt="Download on Modrinth" src="https://i.postimg.cc/BvBJYgGc/67560307.png" width="200" />
+</a>
