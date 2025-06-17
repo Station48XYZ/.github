@@ -8,6 +8,9 @@ So come join us and start building your dream world today!
 
 ## Get started on your Station48 journey!
 
+- **Server IP**: `play.station48.xyz`
+- **Download**:
+
 <!-- New Modpack Coming Soon
 < a href="https://modrinth.com/modpack/station48" title="Download on Modrinth">
   <img alt="Download on Modrinth" src="https://i.postimg.cc/BvBJYgGc/67560307.png" width="200" />
