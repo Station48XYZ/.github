@@ -2,3 +2,6 @@
 
 Welcome to Station48, a all Inclusive and Welcoming Community Minecraft Server for all Players, Devs and non-devs alike! 
 We are a community of developers (Mostly Astro Devs), builders, and players who love to relax, create, and play Minecraft together.
+
+We have a variety of Mods on our server to help make your experience as enjoyable as possible! We are always looking for new members to join our community and help us grow. 
+So come join us and start building your dream world today!
