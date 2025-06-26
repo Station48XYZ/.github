@@ -11,6 +11,6 @@ So come join us and start building your dream world today!
 - **Server IP**: `play.station48.xyz`
 - **Download**:
 
-< a href="https://modrinth.com/modpack/station48" title="Download on Modrinth">
+<a href="https://modrinth.com/modpack/station48" title="Download on Modrinth">
   <img alt="Download on Modrinth" src="https://i.postimg.cc/BvBJYgGc/67560307.png" width="200" />
 </a> 
